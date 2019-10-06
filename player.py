@@ -5,6 +5,7 @@ VIEWPORT_MARGIN = 350
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 800
 
+
 class Player(arcade.Sprite):
 
     def __init__(self):
